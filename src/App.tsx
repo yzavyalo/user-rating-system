@@ -1,14 +1,16 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import './components/UserCard'
-import { UserCard } from './components/UserCard';
-import usersFromFile from './test-data.json';
+import "./App.css";
+import { Header } from "./components/Header";
+import { Main } from "./components/Main";
+import { Footer } from "./components/Footer";
 
-import { Button } from '@rneui/base';
-
-const App = () => {
-  return <Button title="Hello World" />;
-};
+function App() {
+    return (
+        <>
+            <Header />
+            <Main />
+            <Footer />
+        </>
+    );
+}
 
 export default App;
