@@ -39,7 +39,8 @@
             "payment_method": "Credit card",
             "term": "Monthly"
         },
-        "rating": 3
+        "rating": 3,
+        "ratingGroup": true,
     },
     {
         "id": 5360,
@@ -119,7 +120,8 @@
             "payment_method": "Visa checkout",
             "term": "Full subscription"
         },
-        "rating": -3
+        "rating": -3,
+        "ratingGroup": false
     }
 ]
 }
