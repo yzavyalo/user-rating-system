@@ -1,0 +1,119 @@
+[
+    {
+        "id": 5917,
+        "uid": "f23a5e69-f516-495c-8066-e6ab861d54b3",
+        "password": "rhdFk7N6PD",
+        "first_name": "Domenic",
+        "last_name": "Medhurst",
+        "username": "domenic.medhurst",
+        "email": "domenic.medhurst@email.com",
+        "avatar": "https://robohash.org/quiasediste.png?size=300x300\u0026set=set1",
+        "gender": "Bigender",
+        "phone_number": "+7 581-248-7556 x8825",
+        "social_insurance_number": "379024342",
+        "date_of_birth": "1989-07-13",
+        "employment": {
+            "title": "International Accounting Agent",
+            "key_skill": "Organisation"
+        },
+        "address": {
+            "city": "New Randal",
+            "street_name": "Sabina Forge",
+            "street_address": "37148 Ullrich Ways",
+            "zip_code": "63528",
+            "state": "Michigan",
+            "country": "United States",
+            "coordinates": {
+                "lat": -54.91379429350774,
+                "lng": 41.9760640895295
+            }
+        },
+        "credit_card": {
+            "cc_number": "4515-9826-6147-8940"
+        },
+        "subscription": {
+            "plan": "Professional",
+            "status": "Pending",
+            "payment_method": "Credit card",
+            "term": "Monthly"
+        }
+    },
+    {
+        "id": 5360,
+        "uid": "1d6c8b47-d3f6-43ea-a444-a67318d02e00",
+        "password": "5dJSGzRAoK",
+        "first_name": "Hilario",
+        "last_name": "Gleason",
+        "username": "hilario.gleason",
+        "email": "hilario.gleason@email.com",
+        "avatar": "https://robohash.org/utoditcorporis.png?size=300x300\u0026set=set1",
+        "gender": "Agender",
+        "phone_number": "+993 720.339.3957",
+        "social_insurance_number": "647610831",
+        "date_of_birth": "1960-09-11",
+        "employment": {
+            "title": "District Administrator",
+            "key_skill": "Teamwork"
+        },
+        "address": {
+            "city": "Cummingsmouth",
+            "street_name": "Sipes Plain",
+            "street_address": "95455 Antone Forest",
+            "zip_code": "91538-9795",
+            "state": "Kentucky",
+            "country": "United States",
+            "coordinates": {
+                "lat": -84.54729847244421,
+                "lng": -26.784929337335086
+            }
+        },
+        "credit_card": {
+            "cc_number": "4586-8371-2369-1411"
+        },
+        "subscription": {
+            "plan": "Starter",
+            "status": "Blocked",
+            "payment_method": "Google Pay",
+            "term": "Annual"
+        }
+    },
+    {
+        "id": 9964,
+        "uid": "bba01b04-546e-4dd3-acf5-36c109553dc8",
+        "password": "jWsrLETdKH",
+        "first_name": "Sherilyn",
+        "last_name": "Braun",
+        "username": "sherilyn.braun",
+        "email": "sherilyn.braun@email.com",
+        "avatar": "https://robohash.org/etcumquedolor.png?size=300x300\u0026set=set1",
+        "gender": "Male",
+        "phone_number": "+257 1-175-770-8569",
+        "social_insurance_number": "481953354",
+        "date_of_birth": "1966-09-23",
+        "employment": {
+            "title": "Marketing Producer",
+            "key_skill": "Organisation"
+        },
+        "address": {
+            "city": "Lake Theresiafurt",
+            "street_name": "Bins Ville",
+            "street_address": "70720 Hildred Wall",
+            "zip_code": "92193",
+            "state": "Wyoming",
+            "country": "United States",
+            "coordinates": {
+                "lat": -18.645083322201486,
+                "lng": -173.33395159882363
+            }
+        },
+        "credit_card": {
+            "cc_number": "4931-2091-5742-9328"
+        },
+        "subscription": {
+            "plan": "Premium",
+            "status": "Idle",
+            "payment_method": "Visa checkout",
+            "term": "Full subscription"
+        }
+    }
+]
