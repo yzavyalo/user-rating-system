@@ -24,6 +24,7 @@ export const UserList = (props: IUserListProps) => {
                 return (
                     <UserCard
                         user={user}
+                        key={user.id}
                         onIncreaseRating={props.onIncreaseRating}
                         onDecreaseRating={props.onDecreaseRating}
                         onResetRating={props.onResetRating}
