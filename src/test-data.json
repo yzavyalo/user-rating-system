@@ -80,7 +80,8 @@
             "payment_method": "Google Pay",
             "term": "Annual"
         },
-        "rating": 0
+        "rating": 0,
+        "ratingGroup": false
     },
     {
         "id": 9964,
