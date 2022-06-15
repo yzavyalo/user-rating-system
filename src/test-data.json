@@ -1,4 +1,6 @@
-[
+{
+    "fetchingState": "ready",
+    "users": [
     {
         "id": 5917,
         "uid": "f23a5e69-f516-495c-8066-e6ab861d54b3",
@@ -36,7 +38,8 @@
             "status": "Pending",
             "payment_method": "Credit card",
             "term": "Monthly"
-        }
+        },
+        "rating": 3
     },
     {
         "id": 5360,
@@ -75,7 +78,8 @@
             "status": "Blocked",
             "payment_method": "Google Pay",
             "term": "Annual"
-        }
+        },
+        "rating": 0
     },
     {
         "id": 9964,
@@ -114,6 +118,8 @@
             "status": "Idle",
             "payment_method": "Visa checkout",
             "term": "Full subscription"
-        }
+        },
+        "rating": -3
     }
 ]
+}
